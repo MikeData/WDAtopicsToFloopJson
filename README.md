@@ -17,4 +17,6 @@ ammendments.json - the new json we're appending to data.json
 
 FINAL_WDAhackedintofloopdata.json - data.json with ammendments.json appended.
 
-# NOTE - as it says in the notebook ive assumed ONS as organisation 24 (I think it was 24). thats not defined anywhere yet and probably needs to be.
+## NOTES
+
+as it says in the notebook ive assumed ONS as organisation 24 (I think it was 24,the next free numner anyway). thats not defined anywhere yet and probably needs to be.
